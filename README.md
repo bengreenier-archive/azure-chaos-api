@@ -1,4 +1,4 @@
-# azure-chaos-frontend
+# azure-chaos-api
 
 web frontend for [azure-chaos](https://github.com/bengreenier/azure-chaos). :cloud:
 
